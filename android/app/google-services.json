@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275189493490",
+    "firebase_url": "https://animehunch-web-app.firebaseio.com",
+    "project_id": "animehunch-web-app",
+    "storage_bucket": "animehunch-web-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275189493490:android:d508f72906144abfecea6b",
+        "android_client_info": {
+          "package_name": "com.animehunch_web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275189493490-lc9ftda9vkrhoqdacj5qn5k1sadhubqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuT7yQLSZ5VkTvnC_wLVgdkEwdMVxESkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275189493490-lc9ftda9vkrhoqdacj5qn5k1sadhubqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
